@@ -1,3 +1,3 @@
 # sim-dashboard
 
-仅研究与模拟，没有任何实盘。`index.html` 为客户端加密页面，无密码无法查看。
+仅研究与模拟，没有任何实盘。`index.html` 为客户端加密页面（AES-256-GCM + PBKDF2），无密码无法查看。
